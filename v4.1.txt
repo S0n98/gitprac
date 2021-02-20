@@ -1,3 +1,2 @@
 add some lines to test branch usage
-change to test merge conflict
 another change 2
